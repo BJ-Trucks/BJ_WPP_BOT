@@ -125,9 +125,9 @@ pkg install yarn
 
 pkg install imagemagick -y
 
-git clone https://github.com/BJ-Trucks/BJ_BOT
+git clone https://github.com/BJ-Trucks/BJ_WPP_BOT
 
-cd BJ_BOT
+cd BJ_WPP_BOT
 
 rm -rf session
 
